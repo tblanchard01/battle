@@ -4,3 +4,4 @@ feature 'Testing infrastructure' do
         expect(page).to have_content 'Test infrastructure working'
     end 
 end 
+
